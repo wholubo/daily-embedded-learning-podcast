@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-06-19 | [CherryUSB](./CherryUSB/) | CherryUSB 是一个轻量、高性能、可移植的嵌入式 USB 主机与设备协议栈，帮助 MCU 开发者以极小的代码量实现 USB 通信功能（如串口、U盘、键盘、音视频等）。 |
 | 2026-06-18 | [QP_C](./QP_C/) | QP/C 是一个为 ARM Cortex-M 微控制器量身定制的轻量级实时事件框架，实现了异步事件驱动的活动对象/Actor 模型，结合了层次状态机。 |
 | 2026-06-17 | [SimpleFOC](./SimpleFOC/) | SimpleFOC 是一个跨平台 Arduino 库，让任何 Arduino/STM32/ESP32 开发者只用几行代码就能给无刷直流电机和步进电机实现磁场定向控制。 |
 | 2026-06-16 | [littlefs](./littlefs/) | littlefs 是 ARM 为微控制器设计的一个轻量、掉电安全、自带动态磨损均衡的文件系统，专为 SPI NOR Flash 等嵌入式存储介质而生。 |
