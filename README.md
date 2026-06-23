@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-06-23 | [ArduPilot](./ArduPilot/) | ArduPilot 是目前最成熟的开源自动驾驶仪软件，能驱动从多旋翼、固定翼飞机到无人车、无人船和潜艇几乎任何类型的无人载具。 |
 | 2026-06-22 | [PikaPython](./PikaPython/) | PikaPython 是一个超轻量级 Python 解释器，仅需 4KB RAM 即可运行，无任何外部依赖，专为资源受限的 MCU 设计，目的是让嵌入式开发者可以用 Python 脚本快速开发，同时保持 C 级别的硬件控制能力。 |
 | 2026-06-21 | [Bluejay](./Bluejay/) | Bluejay 是一套面向多旋翼无人机的数字电调（ESC）固件，运行在 SiLabs EFM8BB Busy Bee 微控制器上，用汇编语言实现无刷电机的高精度控制。 |
 | 2026-06-20 | [WLED](./WLED/) | WLED 是一套在 ESP32/ESP8266 上控制可寻址 RGB LED 灯带、2D 点阵屏和 HUB75 面板的固件 |
