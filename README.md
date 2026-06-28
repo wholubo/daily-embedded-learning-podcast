@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-06-28 | [Mongoose](./Mongoose/) | 嵌入式网络库，仅需两个文件即可在任意MCU上实现HTTP/MQTT/WebSocket/TLS 1.3完整协议栈 |
 | 2026-06-26 | [Golioth_Firmware_SDK](./Golioth_Firmware_SDK/) | 嵌入式设备连接Golioth物联网云平台的SDK |
 | 2026-06-25 | [Tock OS](./Tock OS/) | Tock 是一个用 Rust 编写、面向 ARM Cortex-M 和 RISC-V 微控制器的安全嵌入式操作系统，支持在内存仅几十 KB 的 MCU 上同时运行多个互不信任的应用，利用 Rust 的类型安全和 MPU（内存保护单元）实现内核与应用、驱动与驱动之间的隔离保护。 |
 | 2026-06-25 | [ESPHome](./ESPHome/) | ESPHome 是一个通过 YAML 配置文件控制 ESP32、ESP8266、BK72xx、RP2040 等微控制器，并将其接入 Home Automation 系统（如 Home Assistant）的开源固件生成框架。 |
