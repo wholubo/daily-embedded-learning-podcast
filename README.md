@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-07-02 | [WAMR](./WAMR/) | WAMR 是一个轻量级、高性能的 WebAssembly 运行时，专为嵌入式设备、IoT 边缘节点和资源受限环境设计，让你可以在微控制器上运行 Wasm 字节码。 |
 | 2026-06-30 | [nanopb](./nanopb/) | nanopb是一个专为微控制器和嵌入式系统设计的Protocol Buffers编解码库，让资源受限设备也能用上Google Protobuf的高效序列化格式 |
 | 2026-06-28 | [Mongoose](./Mongoose/) | 嵌入式网络库，仅需两个文件即可在任意MCU上实现HTTP/MQTT/WebSocket/TLS 1.3完整协议栈 |
 | 2026-06-26 | [Golioth_Firmware_SDK](./Golioth_Firmware_SDK/) | 嵌入式设备连接Golioth物联网云平台的SDK |
