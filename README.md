@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-07-04 | [QMK_Firmware](./QMK_Firmware/) | QMK（Quantum Mechanical Keyboard）是目前全球最大的开源键盘固件项目，让你可以用纯软件的方式完全自定义机械键盘上每一个按键的行为，从简单改键到复杂的宏、多层布局、RGB灯光和音频输出。 |
 | 2026-07-03 | [OpenThread](./OpenThread/) | OpenThread 是 Google 开源的 Thread 网络协议实现，让 IoT 设备能在低功耗无线 mesh 网络中可靠地通信，是 Google Nest 智能家居产品的核心技术。 |
 | 2026-07-02 | [WAMR](./WAMR/) | WAMR 是一个轻量级、高性能的 WebAssembly 运行时，专为嵌入式设备、IoT 边缘节点和资源受限环境设计，让你可以在微控制器上运行 Wasm 字节码。 |
 | 2026-06-30 | [nanopb](./nanopb/) | nanopb是一个专为微控制器和嵌入式系统设计的Protocol Buffers编解码库，让资源受限设备也能用上Google Protobuf的高效序列化格式 |
