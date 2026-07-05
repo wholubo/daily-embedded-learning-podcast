@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-07-05 | [IronOS](./IronOS/) | IronOS 是一套为多种智能电烙铁硬件（TS100、Pinecil、MHP30 等）提供开源替代固件的嵌入式项目，把一支普通烙铁变成拥有温度控制、功率协商、OLED 显示、自动休眠、BLE 等功能的智能工具。 |
 | 2026-07-04 | [QMK_Firmware](./QMK_Firmware/) | QMK（Quantum Mechanical Keyboard）是目前全球最大的开源键盘固件项目，让你可以用纯软件的方式完全自定义机械键盘上每一个按键的行为，从简单改键到复杂的宏、多层布局、RGB灯光和音频输出。 |
 | 2026-07-03 | [OpenThread](./OpenThread/) | OpenThread 是 Google 开源的 Thread 网络协议实现，让 IoT 设备能在低功耗无线 mesh 网络中可靠地通信，是 Google Nest 智能家居产品的核心技术。 |
 | 2026-07-02 | [WAMR](./WAMR/) | WAMR 是一个轻量级、高性能的 WebAssembly 运行时，专为嵌入式设备、IoT 边缘节点和资源受限环境设计，让你可以在微控制器上运行 Wasm 字节码。 |
