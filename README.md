@@ -68,3 +68,4 @@
 每个项目文件夹包含：
 - `YYYY-MM-DD_学习报告.md` — 包含 GitHub 链接、技术架构分析、源码陪读、10 个概念卡片、动手任务
 - `YYYY-MM-DD_豆包播客稿.txt` — 基于学习报告改写的中文口播文稿，可直接用于豆包 AI 生成播客
+| 2026-07-06 | [Apache_NimBLE](./Apache_NimBLE/) | 完全开源的蓝牙 5.4 协议栈，同时包含 Host 和 Controller，替代 Nordic 闭源 SoftDevice |
