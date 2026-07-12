@@ -8,7 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
-| 2026-07-11 | [TensorFlow-Lite-Micro](./TensorFlow-Lite-Micro/) | TensorFlow Lite Micro 是 TensorFlow 针对微控制器和 DSP 等低功耗资源受限设备量身定制的深度学习推理引擎，让你能够把训练好的 ML 模型跑在只有几十 KB 内存的 MCU 上 |
+| 2026-07-12 | [libopencm3](./libopencm3/) | libopencm3 是一个从零开始、完全基于芯片数据手册编写的开源 ARM Cortex-M 微控制器固件库，为开发者提供不依赖厂商 SDK 的统一的底层硬件操作接口 |
 | 2026-07-09 | [NASA_FPrime](./NASA_FPrime/) | 这是 NASA 喷气推进实验室（JPL）开发的开源飞行软件框架，让你能用组件化 C++ 方式快速构建航天器、立方星和嵌入式系统，曾用在毅力号火星直升机上。 |
 | 2026-07-08 | [Betaflight](./Betaflight/) | Betaflight 是一套开源的飞行控制器固件，专为多旋翼无人机和固定翼飞行器设计，核心是实时姿态解算与 PID 控制回路，目标是让穿越机飞得更快、更稳、更精准。 |
 | 2026-07-07 | [EdgeTX](./EdgeTX/) | EdgeTX 是为航模/遥控器（RC Radio）打造的尖端开源固件，从 OpenTX 分叉而来，提供了社区驱动、创新快速迭代的遥控器操作系统。 |
