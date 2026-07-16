@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-07-16 | [ISO14229(UDS)](./ISO14229(UDS)/) | 纯C语言实现的ISO 14229 (UDS) 车载诊断协议服务端与客户端库 |
 | 2026-07-15 | [wolfSSL](./wolfSSL/) | 轻量级嵌入式 SSL/TLS 库，为资源受限的 MCU 和 RTOS 环境提供从 TLS 1.3 到 DTLS 1.3 的加密通信能力，体积仅为 OpenSSL 的 1/20 |
 | 2026-07-14 | [CANopenNode](./CANopenNode/) | CANopenNode 是一个免费开源的 CANopen 协议栈实现，让微控制器（MCU）通过 CAN 总线在工业网络中实现标准化通信，解决工业设备（传感器、执行器、驱动器等）之间实时、可靠的数据交换问题。 |
 | 2026-07-13 | [Raspberry Pi Pico SDK](./Raspberry%20Pi%20Pico%20SDK/) | 树莓派官方为 RP2040/RP2350 微控制器提供的 C/C++ SDK，适合软件工程师切入嵌入式开发 |
