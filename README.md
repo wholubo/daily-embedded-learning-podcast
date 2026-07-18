@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-07-18 | [LVGL](./LVGL/) | LVGL（Light and Versatile Graphics Library）是一个纯 C 编写、零外部依赖的嵌入式 UI 图形库，让任何 MCU 或 MPU 都能跑出媲美智能手机的图形界面。 |
 | 2026-07-17 | [Contiki-NG](./Contiki-NG/) | 面向下一代物联网设备的开源跨平台操作系统，专注于可靠的低功耗通信和标准IoT协议 |
 | 2026-07-16 | [ISO14229(UDS)](./ISO14229(UDS)/) | 纯C语言实现的ISO 14229 (UDS) 车载诊断协议服务端与客户端库 |
 | 2026-07-15 | [wolfSSL](./wolfSSL/) | 轻量级嵌入式 SSL/TLS 库，为资源受限的 MCU 和 RTOS 环境提供从 TLS 1.3 到 DTLS 1.3 的加密通信能力，体积仅为 OpenSSL 的 1/20 |
