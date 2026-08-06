@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-08-06 | [VESC](./VESC/) | VESC 是 Benjamin Vedder 从大学毕设一路做成开源电动滑板与机器人行业标配的电机控制器固件，在 STM32 上同时实现了方波 BLDC 与矢量 FOC 两套驱动，配套 VESC Tool 上位机，是开源世界里最完整的"电机控制产品级固件"。 |
 | 2026-08-05 | [open62541](./open62541/) | open62541 是用 C99 语言从零实现的 OPC UA（OPC Unified Architecture，对应国际标准 IEC 62541）开源协议栈，让设备、控制器和上位机之间能用统一、安全、可建模的方式交换工业数据。 |
 | 2026-08-03 | [Flipper Zero Firmware](./Flipper Zero Firmware/) | 这是一款面向开源硬件"海豚"Flipper Zero 的完整量产固件，把一颗 STM32WB55 双核微控制器变成能玩转 Sub-GHz 射频、NFC、红外、低频 RFID、USB 与蓝牙的多功能手持工具，并靠"插件化应用"机制让社区像装 App 一样扩展功能。 |
 | 2026-08-02 | [Hubris](./Hubris/) | Hubris 是 Oxide Computer 公司为深度嵌入式系统设计的一个轻量级、带内存保护、基于消息传递的微内核操作系统——它让多个任务在无 MMU 的 MCU 上彼此隔离地运行，任何一个任务崩溃都不会拖垮整台设备。 |
