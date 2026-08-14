@@ -8,6 +8,7 @@
 
 | 日期 | 项目 | 说明 |
 |------|------|------|
+| 2026-08-14 | [SWUpdate](./SWUpdate/) | SWUpdate 是一个运行在嵌入式 Linux 设备上的更新代理（Update Agent），解决"产品出厂后，如何把新固件、内核、根文件系统安全可靠地装到现场设备上"这个真实问题，同时支持本地升级和 OTA 远程升级，并且把"升级到一半断电"这种事故设计成不会变砖。 |
 | 2026-08-13 | [TinyGo](./TinyGo/) | TinyGo 是一个"为小地方准备的 Go 编译器"，让你用 Go 语言写裸机微控制器固件、WebAssembly 和命令行工具，代码几乎不用改就能在不同开发板之间迁移。 |
 | 2026-08-12 | [MAVLink](./MAVLink/) | MAVLink（Micro Air Vehicle Message Marshalling Library）是无人机与地面站之间的轻量级二进制通信协议库，用 XML 定义消息集、用代码生成器产出多语言源码，专门服务于带宽极低、链路不可靠的数传场景，是 PX4、ArduPilot、QGroundControl 等整个无人机生态的互操作底座。 |
 | 2026-08-11 | [Matter](./Matter/) | Matter（曾用名 Project CHIP）是一套由连接标准联盟 CSA 推动、基于 IP 的智能家居应用层互联标准及其开源参考实现，让不同品牌的灯、锁、传感器、音箱之间像网页走 HTTP 一样说同一种"设备语言"，实现跨生态互通。 |
